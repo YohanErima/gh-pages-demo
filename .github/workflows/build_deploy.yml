@@ -23,4 +23,4 @@ jobs:
           folder: build
           branch: gh-pages
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCES_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
